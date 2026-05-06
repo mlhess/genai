@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>University of Michigan</title>
+  <rect width="32" height="32" rx="4" fill="#00274C"/>
+  <path fill="#FFCB05" d="M6 8h4.5l5.5 8.5L21.5 8H26v16h-3.5v-9.8L17 22h-2l-5.5-7.8V24H6z"/>
+</svg>

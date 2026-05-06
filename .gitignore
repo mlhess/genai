@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# Editor junk
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Node/tooling (in case anything gets added later)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local Claude Code state
+.claude/
+
+# Source materials kept locally but not published to the site repo
+um-ai-course-proposal.md
+umich_design.md
+logo.png
