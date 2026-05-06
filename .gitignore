@@ -17,6 +17,8 @@ yarn-error.log
 .claude/
 
 # Source materials kept locally but not published to the site repo
-um-ai-course-proposal.md
-umich_design.md
-logo.png
+# (leading slash = root of repo only; without it the pattern would match
+# assets/img/logo.png too)
+/um-ai-course-proposal.md
+/umich_design.md
+/logo.png
